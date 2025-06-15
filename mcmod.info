@@ -1,0 +1,16 @@
+[
+{
+  "modid": "howlingmoon",
+  "name": "Howling Moon",
+  "description": "Unleash the beast.",
+  "version": "0.9",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Razmen"],
+  "credits": "Textures[Killerwolf: Killerwolf1810, Wolfsbane: Dan_Walker]",
+  "logoFile": "assets/howlingmoon/textures/hm_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
