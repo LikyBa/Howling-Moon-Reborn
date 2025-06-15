@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "howlingmoon:items/silver_sword"
+    }
+}
